@@ -1,0 +1,10 @@
+
+.upload-button{
+    border: none;
+    border-radius: 20px;
+    color: #000;
+    width: 7%;
+    height: 35px;
+    padding: 2px;
+    background: var(--primary-color);
+}
